@@ -1,0 +1,17 @@
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\bin\Debug\PawsInn.exe.config
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\bin\Debug\PawsInn.exe
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\bin\Debug\PawsInn.pdb
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\obj\Debug\PawsInn.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\obj\Debug\PawsInn.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\obj\Debug\PawsInn.frmLoadingPage.resources
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\obj\Debug\PawsInn.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\obj\Debug\PawsInn.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\obj\Debug\PawsInn.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\obj\Debug\PawsInn.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\obj\Debug\PawsInn.exe
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\obj\Debug\PawsInn.pdb
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\bin\Debug\CircularProgressBar.dll
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\bin\Debug\WinFormAnimation.dll
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\bin\Debug\CircularProgressBar.xml
+C:\Users\USUARIO\Downloads\Proyectos POO\PawsInn\obj\Debug\PawsInn.Formularios.frmInicio.resources
