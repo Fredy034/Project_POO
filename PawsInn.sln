@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawsInn", "PawsInn.csproj", "{D62D5E01-B804-4E03-A6BB-AE6AA17852F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62D5E01-B804-4E03-A6BB-AE6AA17852F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62D5E01-B804-4E03-A6BB-AE6AA17852F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62D5E01-B804-4E03-A6BB-AE6AA17852F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62D5E01-B804-4E03-A6BB-AE6AA17852F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D5CE67C-DADE-4741-8917-1AB4431712A9}
+	EndGlobalSection
+EndGlobal
